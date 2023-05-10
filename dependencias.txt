@@ -1,2 +1,4 @@
 pip install xgboost==1.7.5
 pip install scikit-learn
+pip install pandas
+pip install numpy
